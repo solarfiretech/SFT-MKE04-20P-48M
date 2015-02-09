@@ -10,3 +10,8 @@ Build Environment<br />
 > Eclipse (Luna) CDT Build Environment<br />
 > PE Micro GDB Server Eclipse Plugin<br />
 > GDB Hardware Debugging Eclipse Plugin<br />
+
+JTAG Emulator<br />
+
+> PE Micro Multilink Universal
+> SWD Connection
