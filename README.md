@@ -13,5 +13,5 @@ Build Environment<br />
 
 JTAG Emulator<br />
 
-> PE Micro Multilink Universal
-> SWD Connection
+> PE Micro Multilink Universal<br />
+> SWD Connection<br />
